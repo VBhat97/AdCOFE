@@ -3,8 +3,14 @@ Code for the paper Advanced Contextual Feature Extraction in Conversations for e
 
 # How to Run : 
 
+# IEMOCAP (Run.ipynb)
 1. Change the path to the .pkl files under the # Importing the Dataset heading.
 2. Run the cell under the heading # Required Installs for the project
+3. Run all the cells. You would get the output.
+
+# MELD (MELD_Run.ipynb)
+1. Clone the project. Do not change the location of the train and test dataset.
+2. If the location is changed, give the appropriate location in the pandas read cell.
 3. Run all the cells. You would get the output.
 
 # Computational Resources :
